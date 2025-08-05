@@ -1,5 +1,10 @@
 body {
+  background: linear-gradient(to right, #f0f0f0, #d0e0f0); /* Contoh gradien background */
+  font-family: Arial, sans-serif;
+}
+body {
   background-image: url('images/bg.jpeg');
   background-size: cover;
+  background-repeat: no-repeat;
   background-attachment: fixed;
 }
