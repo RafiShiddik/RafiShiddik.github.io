@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: <img src="https://rafishiddik.github.io/images/Foto.jpg" alt="Foto Profil" width="200">
-description: Hai! Saya Achmad Rafi Shiddik, seorang praktisi di persimpangan pendidikan dan data science. Latar belakang saya di Pendidikan Matematika membuat saya percaya bahwa solusi teknologi terbaik lahir dari pemahaman mendalam terhadap masalah nyata di lapangan. Di portofolio ini, saya menampilkan proyek-proyek nyata yang menghubungkan teori dan praktik dalam edutech, analitik, dan sistem rekomendasi berbasis data.
+description: 
+- linked : https://www.linkedin.com/in/achmad-rafi-shiddik/
 markdown: kramdown
 kramdown:
   input: GFM
