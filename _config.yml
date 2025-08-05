@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: Porto Folio Achmad Rafi Shiddik
+description: Hai! Saya Achmad Rafi Shiddik, seorang praktisi di persimpangan pendidikan dan data science. Latar belakang saya di Pendidikan Matematika membuat saya percaya bahwa solusi teknologi terbaik lahir dari pemahaman mendalam terhadap masalah nyata di lapangan. Di portofolio ini, saya menampilkan proyek-proyek nyata yang menghubungkan teori dan praktik dalam edutech, analitik, dan sistem rekomendasi berbasis data.
+markdown: kramdown
+kramdown:
+  input: GFM
